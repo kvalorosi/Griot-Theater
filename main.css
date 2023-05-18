@@ -1,0 +1,48 @@
+.navbar {
+    font-family: 'Alegreya', serif;
+}
+
+#pic1 {
+    position: relative;
+    display: inline-block;
+}
+
+.image {
+    display: block;
+    width: 100%;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 100px;
+    font-family: 'Alegreya', serif;
+    text-align: center;
+}
+
+#item1 {
+    background-color: lightgrey;
+    font-family:'Alegreya', serif ;
+    
+}
+
+#item2 {
+    font-family: 'Alegreya', serif;
+
+}
+
+#item3 {
+    font-family: 'Alegreya', serif;
+
+}
+
+#item4 {
+    font-family: 'Alegreya', serif;
+
+}
+
+
+
